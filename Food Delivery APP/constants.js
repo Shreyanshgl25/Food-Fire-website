@@ -21,7 +21,7 @@ export const shimmer_card_unit = 20;
 export const shimmer_menu_card_unit = 4;
 
 // Github - username
-export const Github_UserName = "ShreyanshGoyal";
+export const Github_UserName = "Shreyanshgl25";
 export const Github_Repository_Name = "Food-Fire-website";
 
 // Github API for User
